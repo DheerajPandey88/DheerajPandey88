@@ -51,8 +51,8 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajpandey18&show_icons=true&theme=dark)    
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dheerajpandey18&theme=dark)    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajpandey88&show_icons=true&theme=dark)    
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dheerajpande88&theme=dark)    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpandey88&layout=compact&theme=dark)
 
 
