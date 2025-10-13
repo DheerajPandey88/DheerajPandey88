@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/dheeraj-p-827b22259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="pandyedheerajkumar002@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
  <!--a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /--></a>
-  <img src="https://komarev.com/ghpvc/?username=dheerajkumarpandey&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dheerajpandey88&color=blue" alt="Profile Views" />
 </p>
 
 ---
