@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajkumarpandey&show_icons=true&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dheerajkumarpandey&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dheerajkumarpandey&theme=dark)    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajkumarpandey&layout=compact&theme=dark)
 
 
