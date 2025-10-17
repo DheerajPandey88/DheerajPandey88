@@ -52,9 +52,7 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajPandey88&show_icons=true&theme=dark)   
-
-![StreakS Streak](https://streak-stats.demolab.com?user=dheerajPandey88&theme=dark)
-<!--[Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dheerajPandey88&theme=dark)-->    
+[Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dheerajPandey88&theme=dark)    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajPandey88&layout=compact&theme=dark)
 
 
