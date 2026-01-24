@@ -15,8 +15,8 @@
 - 💻 Turning ideas into real-world applications.  
 - 👀 I’m interested in Learning a New Technology
 - 🌱 I’m currently learning Flutter and Android Development
-- 💞️ I’m looking to collaborate on Any Java project or Android development
-- 📫 How to reach me text me on mail [pandyedheerajkumar002@gmail.com](mailto:pandyedheerajkumar002@gmail.com)
+<!--- 💞️ I’m looking to collaborate on Any Java project or Android development
+ 📫 How to reach me text me on mail [pandyedheerajkumar002@gmail.com](mailto:pandyedheerajkumar002@gmail.com)-->
 - 😄 Pronouns: ... ⚡
 - Fun fact: ...
 ---
