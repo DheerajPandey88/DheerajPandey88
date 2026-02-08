@@ -27,7 +27,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<?--![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)-?>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -51,11 +51,17 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajPandey88&show_icons=true&theme=dark) <br/> 
+<?--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajPandey88&show_icons=true&theme=dark) <br/> 
 ![](https://nirzak-streak-stats.vercel.app/?user=dheerajPandey88&theme=dark&hide_border=true)<br/>
 <!--[Streak Stats](https://streak-stats.demolab.com/?user=dheerajPandey88&theme=dark&hide_border=false)
 <!--[Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dheerajPandey88&theme=dark)-->    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajPandey88&layout=compact&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajPandey88&layout=compact&theme=dark)--?>
+![Metrics](https://metrics.lecoq.io/dheerajPandey88)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajPandey88&theme=github-dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dheerajPandey88&theme=darkhub)
+
 
 
 ⭐ **Thanks for visiting my profile!**  
