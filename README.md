@@ -51,16 +51,14 @@
 
 ### 📊 GitHub Stats
 
-<?--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajPandey88&show_icons=true&theme=dark) <br/> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajPandey88&show_icons=true&theme=dark) <br/> 
 ![](https://nirzak-streak-stats.vercel.app/?user=dheerajPandey88&theme=dark&hide_border=true)<br/>
 <!--[Streak Stats](https://streak-stats.demolab.com/?user=dheerajPandey88&theme=dark&hide_border=false)
 <!--[Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dheerajPandey88&theme=dark)-->    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajPandey88&layout=compact&theme=dark)--?>
-![Metrics](https://metrics.lecoq.io/dheerajPandey88)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajPandey88&layout=compact&theme=dark)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajPandey88&theme=github-dark)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dheerajPandey88&theme=darkhub)
 
 
 
