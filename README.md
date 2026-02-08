@@ -54,9 +54,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajPandey88&theme=github-dark)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajPandey88&theme=github_dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajPandey88&theme=github-dark)
-![trophy](https://github-profile-trophy.vercel.app/?username=dheerajPandey88&theme=darkhub)
-![Metrics](https://metrics.lecoq.io/dheerajPandey88)
+
+
 
 
 ⭐ **Thanks for visiting my profile!**  
