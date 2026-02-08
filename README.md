@@ -51,14 +51,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajPandey88&show_icons=true&theme=dark) <br/> 
-
-
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajPandey88&theme=github-dark)
-
-
-
 
 ⭐ **Thanks for visiting my profile!**  
 Always open to collaborating and learning 🚀
