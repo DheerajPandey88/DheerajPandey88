@@ -52,6 +52,7 @@
 ### 📊 GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajPandey88&theme=github-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=dheerajPandey88&color=blue)
 
 ⭐ **Thanks for visiting my profile!**  
 Always open to collaborating and learning 🚀
