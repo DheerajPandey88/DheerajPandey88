@@ -41,7 +41,6 @@
 
 #### 📱 Mobile Development:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 #### ⚙️ Tools:
