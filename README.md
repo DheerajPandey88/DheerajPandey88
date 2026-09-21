@@ -56,7 +56,7 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajPandey88&theme=github_dark)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=dheerajPandey88&theme=github-dark)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dheerajPandey88&theme=github-dark)
 
