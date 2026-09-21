@@ -54,7 +54,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajPandey88&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajPandey88&theme=github_dark)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=dheerajPandey88&theme=github-dark)
 
