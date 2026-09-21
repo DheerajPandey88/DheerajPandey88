@@ -44,11 +44,11 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 #### ⚙️ Tools:
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
----
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white) 
+--- 
 
 ### 📊 GitHub Stats
 
@@ -57,8 +57,8 @@
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajPandey88&theme=github_dark)
 
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dheerajPandey88&theme=github-dark)
+ 📊 GitHub streak
+![](https://streak-stats.demolab.com?user=dheerajPandey88&theme=github-dark)
 
 
 ⭐ **Thanks for visiting my profile!**  
